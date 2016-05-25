@@ -1,0 +1,29 @@
+{
+  "name": "taqay",
+  "version": "1.0.0",
+  "description": "A javascript client side html parser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvaldivia/taqay.git"
+  },
+  "keywords": [
+    "client-side",
+    "html",
+    "parser"
+  ],
+  "author": "Kenny Valdivia",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/kvaldivia/taqay/issues"
+  },
+  "homepage": "https://github.com/kvaldivia/taqay#readme",
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "karma": "^0.13.22",
+    "mocha": "^2.4.5"
+  }
+}
